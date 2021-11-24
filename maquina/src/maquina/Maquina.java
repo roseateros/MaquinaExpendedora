@@ -19,7 +19,7 @@ public class Maquina extends JFrame implements ActionListener{
      */
     public Maquina Action
     public static void main(String[] args) {
-        // TODO code application logic here
+        // logic will be here
     }
     
 }
